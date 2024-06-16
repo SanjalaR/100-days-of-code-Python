@@ -1,0 +1,47 @@
+html{
+    background-color: #252a34;
+}
+.text, span{
+    color: #08d9d6;
+}
+.white_strip, .topics, .post{
+    background-color: #ececec;
+    display: grid;
+    margin: 20px 0px;
+}
+#first{
+    width: 100%;
+}
+#second{
+    width: 200px;
+    height: 30px;
+    border-radius: 20px;
+    padding: 5px;
+
+}
+span{
+    margin: 20px;
+}
+.gray{
+    color: #ff2e63;
+}
+img{
+    margin: 0px;
+    padding: 10px;
+
+}
+.PARENT, #name{
+    float: left;
+    clear: none;
+}
+.POSTS, #hab{
+    float: right;
+    clear: none;
+    display: inline-block;
+}
+hr{
+    color: #ff2e63;
+}
+p{
+    font-size: 20px;
+}
